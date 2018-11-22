@@ -5,7 +5,7 @@
 #include "PietteTech_DHT.h" //Include PietteTech_DHT
 #include "cellular_hal.h"
 
-PRODUCT_ID(7251); // replace by your product ID
+PRODUCT_ID(8351); // replace by your product ID
 PRODUCT_VERSION(1); // increment each time you upload to the console
 
 // Using SEMI_AUTOMATIC mode to get the lowest possible data usage by
